@@ -1,0 +1,5 @@
+These two files were my first bash scripts. I haven't gone too far down the scripting rabbit hole, but these helped me get a better hold of the syntax. Both scripts are interactive games with slightly different functionality.
+
+Number Guesser: uses python to randomly guess a number between an upper bound and a lower bound. Not very efficient, but usually more fun, since it's more random.
+
+Bisection Guesser: uses a bisection search method to find the number that the user is guessing. Much more efficient and consistent than the random number method.
